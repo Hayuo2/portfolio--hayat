@@ -2,7 +2,7 @@
 ```
 Information about the projects
 ```
-Check out [LIVE DEMO](https://github.com/Hayuo2/portfolio--hayat/) here!!
+Check out [LIVE DEMO]https://portfoliohayat.herokuapp.com/) here!!
 ## Tech used
 ```
 * Html
